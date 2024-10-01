@@ -1,0 +1,13 @@
+name: banco_app
+description: A sample banking application using Dart.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  # Outras dependências do seu aplicativo, se necessário
+
+dev_dependencies:
+  flutter_lints: ^2.0.0 # Adicione esta linha
+  test: ^1.25.8 # Usando a versão compatível do pacote test
